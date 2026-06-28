@@ -115,7 +115,37 @@ AI-Job-Market-Analysis/
 ├── README.md
 ├── LICENSE
 └── requirements.txt
+
 ```
+## 📊 Dashboard Preview
+
+### Executive Dashboard
+
+![Executive Dashboard](Images/executive_dashboard.png)
+
+---
+
+### Salary Intelligence Dashboard
+
+![Salary Dashboard](Images/salary_dashboard.png)
+
+---
+
+### Company Intelligence Dashboard
+
+![Company Dashboard](Images/company_dashboard.png)
+
+---
+
+### Recruiter Insights Dashboard
+
+![Recruiter Dashboard](Images/recruiter_dashboard.png)
+
+---
+
+### AI Skills Intelligence Dashboard
+
+![AI Skills Dashboard](Images/ai_skills_dashboard.png)
 
 ---
 
